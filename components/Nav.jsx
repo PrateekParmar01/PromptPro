@@ -46,6 +46,7 @@ const Nav = () => {
                 src={session?.user.image}
                 width={37}
                 height={37}
+                alt="profile"
               ></Image>
             </Link>
           </div>
