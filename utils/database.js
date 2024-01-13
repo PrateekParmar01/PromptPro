@@ -21,5 +21,3 @@ export const connectToDB = async () => {
         console.log(error);
     }
 }
-
-//Void2003
